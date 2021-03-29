@@ -1,3 +1,3 @@
-# CSS Grid Tutorial
+# CSS Grid tutorial notes
 
-this shit is a tutorial on css grid. its my first time using it. 
+so flexbox is one dimensional and grid is two dimensional
